@@ -1,8 +1,7 @@
-# Build a REST API with Node JS and Express
 
-![REST API](https://i.ibb.co/7GWCCbp/Screenshot-2020-07-12-at-08-30-32.png)
+get /people encuentra todos los usuarios
+post/people crea un usuario
+get/people/id encuentra un usuario con el id
+delete/people/id borra el usuario con el id
+patch/people/id actualiza el usuario con el id.
 
-## Introduction
-This is a code repository for the corresponding video tutorial. 
-
-In this video, we will create a Node JS and Express JS CRUD REST API.
